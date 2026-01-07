@@ -19,4 +19,5 @@ Python · Django · FastAPI · PostgreSQL · Redis · AWS · Docker · Kubernete
 
 📬 **Let's connect**
 Reach me at onomeakpobaro@yahoo.com
+
 Open to tech discussions, leadership roles, and impactful collaborations.
