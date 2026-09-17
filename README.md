@@ -15,7 +15,7 @@ Python · Django · FastAPI · Node.js · Go · PostgreSQL · Redis · AWS · Do
  **Recent Projects**
 - Built Proovia.cloud (ML content detection API, 85% accuracy)
 - Engineered www.gatewaytotech.com
-- Built stockroom.vfgl.tech
+- Built www.stockroom.vfgl.tech
 - Reduced API response times by 65% through Redis caching
 - Automated 90% of manual hotel management processes
 
